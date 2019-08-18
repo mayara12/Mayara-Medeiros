@@ -1,0 +1,8 @@
+﻿Sistema de controle de bebidas
+
+Cadastro de bebidas por categorias como refrigerantes, vinhos e sucos
+
+Todas as bebidas possuem características como nome, valor, código de barras e id;
+Sucos devem ter o atributo sabor 
+Vinhos devem ter os atributos safra e tipo
+Refrigerantes devem ter o atributo retornável.
